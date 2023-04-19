@@ -1,0 +1,2 @@
+# picgo
+save blog image
